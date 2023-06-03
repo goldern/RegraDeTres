@@ -14,4 +14,4 @@ fácil de usar, permitindo que qualquer usuário utilize apenas preenchendo os d
 
 ![image](https://goldern.github.io/image-repo/java_3vnkZxBcZp.png)
 
-Download da Aplicação: https://giulianovianna.github.io/RegraDeTres/
+Download da Aplicação: https://github.com/goldern/RegraDeTres/releases
